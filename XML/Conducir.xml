@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listaConducir>
+  <conducir d_dni="21183288A" d_fecha="2010-04-12 00:00:00.0">
+    <d_mat>1111AAA</d_mat>
+    <d_hora_inicio>2010-04-12 11:02:44.0</d_hora_inicio>
+    <d_hora_fin>2010-04-12 13:02:44.0</d_hora_fin>
+  </conducir>
+  <conducir d_dni="21183288C" d_fecha="2010-04-13 00:00:00.0">
+    <d_mat>1111BBB</d_mat>
+    <d_hora_inicio>2010-04-13 21:02:44.0</d_hora_inicio>
+    <d_hora_fin>2010-04-14 15:02:44.0</d_hora_fin>
+  </conducir>
+  <conducir d_dni="21183288B" d_fecha="2010-04-14 00:00:00.0">
+    <d_mat>1111CCC</d_mat>
+    <d_hora_inicio>2010-04-14 20:02:44.0</d_hora_inicio>
+    <d_hora_fin>2010-04-14 23:02:44.0</d_hora_fin>
+  </conducir>
+</listaConducir>

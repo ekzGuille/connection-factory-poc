@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<listaRevisar>
+  <revisar d_fecha="2010-04-20 00:00:00.0" d_mat="1111CCC">
+    <d_cod>2222</d_cod>
+  </revisar>
+  <revisar d_fecha="2010-04-19 00:00:00.0" d_mat="1111BBB">
+    <d_cod>1111</d_cod>
+  </revisar>
+  <revisar d_fecha="2010-04-17 00:00:00.0" d_mat="1111AAA">
+    <d_cod>3333</d_cod>
+  </revisar>
+</listaRevisar>

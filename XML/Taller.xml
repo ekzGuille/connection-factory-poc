@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<talleres>
+  <taller d_cod="1111">
+    <d_nom1>Afredo</d_nom1>
+    <d_tfno>988111111</d_tfno>
+    <d_nom>Pascual</d_nom>
+  </taller>
+  <taller d_cod="2222">
+    <d_nom1>Roberto</d_nom1>
+    <d_tfno>988222222</d_tfno>
+    <d_nom>Santiago</d_nom>
+  </taller>
+  <taller d_cod="3333">
+    <d_nom1>Julian</d_nom1>
+    <d_tfno>988333333</d_tfno>
+    <d_nom>Jorge</d_nom>
+  </taller>
+</talleres>

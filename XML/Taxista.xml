@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<taxistas>
+  <taxista d_dni="21183288A">
+    <d_nom>Juan Perez</d_nom>
+    <d_tfno>987111111</d_tfno>
+    <d_dir>Calle 1</d_dir>
+    <d_edad>32</d_edad>
+  </taxista>
+  <taxista d_dni="21183288B">
+    <d_nom>Carlos Lorenz</d_nom>
+    <d_tfno>987222222</d_tfno>
+    <d_dir>Calle 2</d_dir>
+    <d_edad>52</d_edad>
+  </taxista>
+  <taxista d_dni="21183288C">
+    <d_nom>Maria Mart¡n</d_nom>
+    <d_tfno>987333333</d_tfno>
+    <d_dir>Calle 3</d_dir>
+    <d_edad>40</d_edad>
+  </taxista>
+</taxistas>

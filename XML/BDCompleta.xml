@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<bdCompleta>
+  <taxis>
+    <taxi d_mat="1111AAA">
+      <d_tfno>978111111</d_tfno>
+      <d_km>688</d_km>
+    </taxi>
+    <taxi d_mat="1111BBB">
+      <d_tfno>978222222</d_tfno>
+      <d_km>1002</d_km>
+    </taxi>
+    <taxi d_mat="1111CCC">
+      <d_tfno>978333333</d_tfno>
+      <d_km>882</d_km>
+    </taxi>
+  </taxis>
+  <taxistas>
+    <taxista d_dni="21183288A">
+      <d_nom>Juan Perez</d_nom>
+      <d_tfno>987111111</d_tfno>
+      <d_dir>Calle 1</d_dir>
+      <d_edad>32</d_edad>
+    </taxista>
+    <taxista d_dni="21183288B">
+      <d_nom>Carlos Lorenz</d_nom>
+      <d_tfno>987222222</d_tfno>
+      <d_dir>Calle 2</d_dir>
+      <d_edad>52</d_edad>
+    </taxista>
+    <taxista d_dni="21183288C">
+      <d_nom>Maria Mart¡n</d_nom>
+      <d_tfno>987333333</d_tfno>
+      <d_dir>Calle 3</d_dir>
+      <d_edad>40</d_edad>
+    </taxista>
+  </taxistas>
+  <talleres>
+    <taller d_cod="1111">
+      <d_nom1>Afredo</d_nom1>
+      <d_tfno>988111111</d_tfno>
+      <d_nom>Pascual</d_nom>
+    </taller>
+    <taller d_cod="2222">
+      <d_nom1>Roberto</d_nom1>
+      <d_tfno>988222222</d_tfno>
+      <d_nom>Santiago</d_nom>
+    </taller>
+    <taller d_cod="3333">
+      <d_nom1>Julian</d_nom1>
+      <d_tfno>988333333</d_tfno>
+      <d_nom>Jorge</d_nom>
+    </taller>
+  </talleres>
+  <listaConducir>
+    <conducir d_dni="21183288A" d_fecha="2010-04-12 00:00:00.0">
+      <d_mat>1111AAA</d_mat>
+      <d_hora_inicio>2010-04-12 11:02:44.0</d_hora_inicio>
+      <d_hora_fin>2010-04-12 13:02:44.0</d_hora_fin>
+    </conducir>
+    <conducir d_dni="21183288C" d_fecha="2010-04-13 00:00:00.0">
+      <d_mat>1111BBB</d_mat>
+      <d_hora_inicio>2010-04-13 21:02:44.0</d_hora_inicio>
+      <d_hora_fin>2010-04-14 15:02:44.0</d_hora_fin>
+    </conducir>
+    <conducir d_dni="21183288B" d_fecha="2010-04-14 00:00:00.0">
+      <d_mat>1111CCC</d_mat>
+      <d_hora_inicio>2010-04-14 20:02:44.0</d_hora_inicio>
+      <d_hora_fin>2010-04-14 23:02:44.0</d_hora_fin>
+    </conducir>
+  </listaConducir>
+  <listaRevisar>
+    <revisar d_fecha="2010-04-20 00:00:00.0" d_mat="1111CCC">
+      <d_cod>2222</d_cod>
+    </revisar>
+    <revisar d_fecha="2010-04-19 00:00:00.0" d_mat="1111BBB">
+      <d_cod>1111</d_cod>
+    </revisar>
+    <revisar d_fecha="2010-04-17 00:00:00.0" d_mat="1111AAA">
+      <d_cod>3333</d_cod>
+    </revisar>
+  </listaRevisar>
+</bdCompleta>
